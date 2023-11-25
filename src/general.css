@@ -1,0 +1,23 @@
+.Nav{
+    display: flex;
+    list-style-type: none;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+.buttonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: white;
+}
+*{
+    background-color: rgb(170, 245, 213);
+}
