@@ -6,7 +6,7 @@ function Navbar(){
     return(
         <div>
             <ul className='Nav'>
-                <li><Link to = "/">Home</Link></li>
+                <li><Link to = "https://catdavis25.github.io/2250HW6/">Home</Link></li>
                 <li><Link to = "/TicTacToe">TicTacToe</Link></li>
                 <li><Link to = "/API">API</Link></li>
             </ul>
